@@ -14,9 +14,20 @@ I'm a B.Tech Computer Science graduate interested in data analytics and business
 
 ## 📊 Featured Projects
 
-- **Cafe Sales Analysis** — Data cleaning, sales analysis, and Excel reporting.
-- **Olist E-commerce Analysis** — E-commerce data exploration and business insights using SQL and analytics.
-- **Blood Group Detection** — Academic project completed as part of my B.Tech.
+### 1. [Cafe Sales Analysis](https://github.com/arunima1919/cafe-sales-analysis)
+A data analytics project focused on cleaning and analyzing cafe sales data to understand revenue, product performance, and customer transaction patterns.
+
+**Tools:** Python, Pandas, SQL, Excel
+
+### 2. [Olist E-commerce Analysis](https://github.com/arunima1919/ecommerce-sales-customer-performance-analysis)
+An e-commerce analytics project exploring customer behavior, order performance, and sales data to identify meaningful business insights.
+
+**Tools:** SQL, Python, Pandas, Power BI
+
+### 3. [Blood Group Detection](https://github.com/arunima1919/bloodgroup-detection)
+An academic B.Tech project focused on blood group detection using the project's implemented methodology and technologies.
+
+**Project type:** Academic project
 
 ## 🎯 Currently Learning
 
