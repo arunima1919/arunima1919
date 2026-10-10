@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Arunima 👋
 
-<!--
-**arunima1919/arunima1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science graduate interested in data analytics and business intelligence. I enjoy cleaning data, exploring datasets, and turning data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Database:** SQL, MySQL
+- **Analytics & Visualization:** Excel, Power BI
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+## 📊 Featured Projects
+
+- **Cafe Sales Analysis** — Data cleaning, sales analysis, and Excel reporting.
+- **Olist E-commerce Analysis** — E-commerce data exploration and business insights using SQL and analytics.
+- **Blood Group Detection** — Academic project completed as part of my B.Tech.
+
+## 🎯 Currently Learning
+
+- Advanced SQL for data analysis
+- Excel and Power BI for business reporting
+- Practical data analytics and visualization
+
+I'm looking forward to opportunities where I can apply my analytical skills and continue learning.
+
